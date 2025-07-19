@@ -53,9 +53,9 @@ This is a simple weather web app built using **Python + Flask** that allows user
 
 ✨ Screenshots :
 
-<img width="1222" height="584" alt="Screenshot 2025-07-19 145646" src="https://github.com/user-attachments/assets/f6812320-9077-4d21-9fe3-aaab1829c215" />
 <img width="371" height="456" alt="Screenshot 2025-07-19 145723" src="https://github.com/user-attachments/assets/8542b733-5769-4b2e-8d2d-0de7002a6acf" />
-![Imgofweatherapi](https://github.com/user-attachments/assets/d0a95c05-8f8b-4232-97b4-7dca0c97c353)
+
+<img width="1222" height="584" alt="Screenshot 2025-07-19 145646" src="https://github.com/user-attachments/assets/f6812320-9077-4d21-9fe3-aaab1829c215" />
 
 ---
 
@@ -63,7 +63,18 @@ This is a simple weather web app built using **Python + Flask** that allows user
 -> Make sure your API key is active and not expired.
 -> You can update the styling in static/style.css.
 
+---
 
+## 💼 Connect with Me
+
+<a href="https://www.linkedin.com/in/manthanterse/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:tersemanthan2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
 
 
 
