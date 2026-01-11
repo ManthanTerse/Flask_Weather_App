@@ -1,13 +1,13 @@
 # 🌦️ Flask Weather App
  - Because even Python 🐍 needs to check the weather before going out...
-This is a simple weather web app built using **Python + Flask** that allows users to check the real-time weather of any city by entering its name. It fetches data from the **OpenWeatherMap API** and displays temperature, humidity, weather condition, and an icon using a clean HTML interface.
+This is a simple weather web app built using **Python + Flask** that allows users to check the real-time weather of any city by entering its name. It fetches data from the **OpenWeatherMap API** and displays temperature, humidity, weather condition and an icon using a clean HTML interface.
 
 ---
 
 ## 🚀 Features
 
 - 🌍 Get live weather data for any city
-- 🌡️ Shows temperature, humidity, and description
+- 🌡️ Shows temperature, humidity and description
 - 🌤️ Displays a weather icon for visual info
 - 🧾 Simple and clean HTML template using Jinja2
 - 🔁 Error handling for invalid city names
@@ -75,7 +75,6 @@ This is a simple weather web app built using **Python + Flask** that allows user
 </a>
 
 ---
-
 
 
 
